@@ -1,6 +1,6 @@
 @font-face {
     font-family: Figtree;
-    src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
+    src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 
 html{
@@ -68,7 +68,7 @@ p{
 footer{
     display: flex;
     align-items: center;
-    margin-top: 10px;
+    margin-top: 1rem;
     margin-bottom: 5px;
     gap: 0.5rem;
 }
